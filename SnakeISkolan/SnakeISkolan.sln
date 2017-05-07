@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnakeISkolan", "SnakeISkolan\SnakeISkolan.vcxproj", "{F215B2CE-462B-4A12-94D1-07AEBAE3CF3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F215B2CE-462B-4A12-94D1-07AEBAE3CF3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F215B2CE-462B-4A12-94D1-07AEBAE3CF3E}.Debug|Win32.Build.0 = Debug|Win32
+		{F215B2CE-462B-4A12-94D1-07AEBAE3CF3E}.Release|Win32.ActiveCfg = Release|Win32
+		{F215B2CE-462B-4A12-94D1-07AEBAE3CF3E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
